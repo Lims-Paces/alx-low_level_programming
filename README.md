@@ -1,1 +1,1 @@
-this repository contains low level programming exercises
+0x02-functions_nested_loops exercises
