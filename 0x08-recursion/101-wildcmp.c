@@ -85,6 +85,7 @@ int bandersnatch(char *s1, char *s2)
 		return (wildcmp(s1, s2));
 	return (bandersnatch(s1 + 1, s2));
 }
+
 /**
  * *move - moves the current char past the *
  * @s2: string to iterate over
